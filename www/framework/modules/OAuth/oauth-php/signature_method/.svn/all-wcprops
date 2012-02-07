@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/signature_method
+END
+OAuthSignatureMethod_PLAINTEXT.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/signature_method/OAuthSignatureMethod_PLAINTEXT.php
+END
+OAuthSignatureMethod_RSA_SHA1.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/signature_method/OAuthSignatureMethod_RSA_SHA1.php
+END
+OAuthSignatureMethod.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/signature_method/OAuthSignatureMethod.class.php
+END
+OAuthSignatureMethod_HMAC_SHA1.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/signature_method/OAuthSignatureMethod_HMAC_SHA1.php
+END
+OAuthSignatureMethod_MD5.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/signature_method/OAuthSignatureMethod_MD5.php
+END

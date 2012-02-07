@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph
+END
+Element.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Element.php
+END
+named_colors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/named_colors.txt
+END
+Legend.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Legend.php
+END
+Logo.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Logo.php
+END
+Axis.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Axis.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Config.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Font.php
+END
+Plotarea.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Plotarea.php
+END
+DataSelector.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/DataSelector.php
+END
+Constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Constants.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Layout.php
+END
+Plot.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Plot.php
+END
+Color.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Color.php
+END
+DataPreprocessor.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/DataPreprocessor.php
+END
+Marker.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Marker.php
+END
+Title.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Title.php
+END
+Include.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Include.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Text.php
+END
+Dataset.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Dataset.php
+END
+Grid.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Grid.php
+END
+Fill.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Fill.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Graph/graphpite/Graph/Common.php
+END

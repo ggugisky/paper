@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php
+END
+OAuthRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/OAuthRequest.php
+END
+OAuthRequestLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/OAuthRequestLogger.php
+END
+OAuthStore.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/OAuthStore.php
+END
+OAuthRequester.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/OAuthRequester.php
+END
+OAuthException2.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/OAuthException2.php
+END
+OAuthRequestSigner.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/OAuthRequestSigner.php
+END
+OAuthSession.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/OAuthSession.php
+END
+OAuthRequestVerifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/OAuthRequestVerifier.php
+END
+OAuthServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/OAuthServer.php
+END
+OAuthDiscovery.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/OAuthDiscovery.php
+END

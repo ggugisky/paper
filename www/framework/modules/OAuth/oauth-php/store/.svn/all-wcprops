@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store
+END
+OAuthStoreAnyMeta.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/OAuthStoreAnyMeta.php
+END
+OAuthStoreMySQLi.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/OAuthStoreMySQLi.php
+END
+OAuthStoreSQL.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/OAuthStoreSQL.php
+END
+OAuthStorePDO.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/OAuthStorePDO.php
+END
+OAuthStorePostgreSQL.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/OAuthStorePostgreSQL.php
+END
+OAuthStoreSession.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/OAuthStoreSession.php
+END
+OAuthStoreMySQL.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/OAuthStoreMySQL.php
+END
+OAuthStoreOracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/OAuthStoreOracle.php
+END
+OAuthStoreAbstract.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/OAuthStoreAbstract.class.php
+END
+OAuthStore2Leg.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/OAuthStore2Leg.php
+END

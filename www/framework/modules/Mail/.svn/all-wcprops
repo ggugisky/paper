@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Mail
+END
+module.SocketMail.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Mail/module.SocketMail.php
+END
+module.Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Mail/module.Mail.php
+END

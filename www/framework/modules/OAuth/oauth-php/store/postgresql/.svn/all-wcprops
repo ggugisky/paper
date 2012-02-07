@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/postgresql
+END
+pgsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/postgresql/pgsql.sql
+END

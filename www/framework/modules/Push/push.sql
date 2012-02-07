@@ -1,0 +1,107 @@
+SET FOREIGN_KEY_CHECKS=0;
+
+CREATE TABLE `push_device_history` (
+  `pid` INT(9) UNSIGNED NOT NULL AUTO_INCREMENT,
+  `clientid` VARCHAR(64) NOT NULL,
+  `appname` VARCHAR(255) NOT NULL,
+  `appversion` VARCHAR(25) DEFAULT NULL,
+  `deviceuid` CHAR(40) NOT NULL,
+  `devicetoken` CHAR(64) NOT NULL,
+  `devicename` VARCHAR(255) NOT NULL,
+  `devicemodel` VARCHAR(100) NOT NULL,
+  `deviceversion` VARCHAR(25) NOT NULL,
+  `pushbadge` ENUM('disabled','enabled') DEFAULT 'disabled',
+  `pushalert` ENUM('disabled','enabled') DEFAULT 'disabled',
+  `pushsound` ENUM('disabled','enabled') DEFAULT 'disabled',
+  `development` ENUM('production','sandbox') CHARACTER SET latin1 NOT NULL DEFAULT 'production',
+  `status` ENUM('active','uninstalled') NOT NULL DEFAULT 'active',
+  `archived` DATETIME NOT NULL,
+  PRIMARY KEY  (`pid`),
+  KEY `clientid` (`clientid`),
+  KEY `devicetoken` (`devicetoken`),
+  KEY `devicename` (`devicename`),
+  KEY `devicemodel` (`devicemodel`),
+  KEY `deviceversion` (`deviceversion`),
+  KEY `pushbadge` (`pushbadge`),
+  KEY `pushalert` (`pushalert`),
+  KEY `pushsound` (`pushsound`),
+  KEY `development` (`development`),
+  KEY `status` (`status`),
+  KEY `appname` (`appname`),
+  KEY `appversion` (`appversion`),
+  KEY `deviceuid` (`deviceuid`),
+  KEY `archived` (`archived`)
+) ENGINE=INNODB DEFAULT CHARSET=utf8 COMMENT='Store unique device history';
+
+CREATE TABLE `push_devices` (
+  `pid` INT(9) UNSIGNED NOT NULL AUTO_INCREMENT,
+  `clientid` VARCHAR(64) NOT NULL,
+  `appname` VARCHAR(255) NOT NULL,
+  `appversion` VARCHAR(25) DEFAULT NULL,
+  `deviceuid` CHAR(40) NOT NULL,
+  `devicetoken` CHAR(64) NOT NULL,
+  `devicename` VARCHAR(255) NOT NULL,
+  `devicemodel` VARCHAR(100) NOT NULL,
+  `deviceversion` VARCHAR(25) NOT NULL,
+  `pushbadge` ENUM('disabled','enabled') DEFAULT 'disabled',
+  `pushalert` ENUM('disabled','enabled') DEFAULT 'disabled',
+  `pushsound` ENUM('disabled','enabled') DEFAULT 'disabled',
+  `development` ENUM('production','sandbox') CHARACTER SET latin1 NOT NULL DEFAULT 'production',
+  `status` ENUM('active','uninstalled') NOT NULL DEFAULT 'active',
+  `created` DATETIME NOT NULL,
+  `modified` TIMESTAMP NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY  (`pid`),
+  UNIQUE KEY `appname` (`appname`,`appversion`,`deviceuid`),
+  KEY `clientid` (`clientid`),
+  KEY `devicetoken` (`devicetoken`),
+  KEY `devicename` (`devicename`),
+  KEY `devicemodel` (`devicemodel`),
+  KEY `deviceversion` (`deviceversion`),
+  KEY `pushbadge` (`pushbadge`),
+  KEY `pushalert` (`pushalert`),
+  KEY `pushsound` (`pushsound`),
+  KEY `development` (`development`),
+  KEY `status` (`status`),
+  KEY `created` (`created`),
+  KEY `modified` (`modified`)
+) ENGINE=INNODB DEFAULT CHARSET=utf8 COMMENT='Store unique devices';
+
+DELIMITER ;;
+CREATE TRIGGER `Archive` BEFORE UPDATE ON `push_devices` FOR EACH ROW INSERT INTO `push_device_history` VALUES (
+	NULL,
+	OLD.`clientid`,
+	OLD.`appname`,
+	OLD.`appversion`,
+	OLD.`deviceuid`,
+	OLD.`devicetoken`,
+	OLD.`devicename`,
+	OLD.`devicemodel`,
+	OLD.`deviceversion`,
+	OLD.`pushbadge`,
+	OLD.`pushalert`,
+	OLD.`pushsound`,
+	OLD.`development`,
+	OLD.`status`,
+	NOW()
+);;
+DELIMITER ;
+
+CREATE TABLE `push_messages` (
+  `pid` INT(9) UNSIGNED NOT NULL AUTO_INCREMENT,
+  `clientid` VARCHAR(64) NOT NULL,
+  `fk_device` INT(9) UNSIGNED NOT NULL,
+  `message` VARCHAR(255) NOT NULL,
+  `delivery` DATETIME NOT NULL,
+  `status` ENUM('queued','delivered','failed') CHARACTER SET latin1 NOT NULL DEFAULT 'queued',
+  `created` DATETIME NOT NULL,
+  `modified` TIMESTAMP NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY  (`pid`),
+  KEY `clientid` (`clientid`),
+  KEY `fk_device` (`fk_device`),
+  KEY `status` (`status`),
+  KEY `created` (`created`),
+  KEY `modified` (`modified`),
+  KEY `message` (`message`),
+  KEY `delivery` (`delivery`)
+) ENGINE=INNODB DEFAULT CHARSET=utf8 COMMENT='Messages to push to APNS';
+

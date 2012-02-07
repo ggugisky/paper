@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/mysql
+END
+mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/mysql/mysql.sql
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/store/mysql/install.php
+END

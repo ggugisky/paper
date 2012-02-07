@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/session
+END
+OAuthSessionAbstract.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/session/OAuthSessionAbstract.class.php
+END
+OAuthSessionSESSION.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/OAuth/oauth-php/session/OAuthSessionSESSION.php
+END

@@ -1,0 +1,168 @@
+<?PHP
+require_once( _MODULES.'/External/twitter/twitteroauth.php');
+require_once( _MODULES.'/External/twitter/OAuth.php');
+
+class API_Twitter{
+	const CONSUMER_KEY = '5BHZM5V31dqX3Luitrec8Q';
+	const CONSUMER_SECRET = 'vwYIUfbSJQj1DB4FJmTR78cGcsJ6eDmgGV80jbNcY8';
+	var $connection;
+	var $service;
+	var $access_token;
+	public $_DOMAIN;
+	private $domain;
+	public $data = array();
+	public $userId;
+	protected $oauth_token;
+	public $oauth_token_secret;
+	public $oauth_uid;
+	public $callback_url;
+	
+	public function __construct($access_token=""){
+		$this->_DOMAIN = $_SERVER["HTTP_HOST"];
+		$this->callback_url = "/common.php?service=view_common_twitterSave";
+		self::init($access_token);
+
+	}
+	//to create TwitteroAuth of object
+	public function init($access_token="") {
+		$this->domain = sprintf("http://%s",$this->_DOMAIN);
+		$this->setToken($access_token);
+		$this->connection = new TwitterOAuth(self::CONSUMER_KEY, 
+												 self::CONSUMER_SECRET, 
+												 $this->oauth_token, 
+												 $this->oauth_token_secret
+												 );
+	}
+
+	public function setToken($access_token=""){
+		if(!empty($_SESSION["oauth_token"]) && !empty($_SESSION["oauth_token_secret"])){
+			$this->oauth_token = $_SESSION["oauth_token"];	
+			$this->oauth_token_secret = $_SESSION["oauth_token_secret"];	
+			unset($_SESSION["oauth_token"]);
+			unset($_SESSION["oauth_token_secret"]);
+			return 0;
+		}
+		$split_token = explode("|",$access_token);
+		$this->oauth_token = $split_token[0];
+		$this->oauth_token_secret = $split_token[1];
+		$this->oauth_uid = $split_token[2];
+	}
+	
+	//to create access token
+	public function createAccessToken($oauth_verifier) {
+		$this->oauth_verifier = $oauth_verifier;
+		$this->access_token = $this->connection->getAccessToken($this->oauth_verifier);
+		return $this->access_token;
+	}
+
+	//to check access token
+	public function checkAllowAccess($callback_url){
+		if(!empty($callback_url)) $this->callback_url = $callback_url;
+		/* Get temporary credentials. */
+		$request_token = $this->connection->getRequestToken($this->domain.$this->callback_url);
+		/* Save temporary credentials to session. */
+		$_SESSION['oauth_token'] = $token = $request_token['oauth_token'];
+		$_SESSION['oauth_token_secret'] = $request_token['oauth_token_secret'];
+		 
+		/* If last connection failed don't display authorization link. */
+		switch ($this->connection->http_code) {
+		  case 200:
+			/* Build authorize URL and redirect user to Twitter. */
+			$url = $this->connection->getAuthorizeURL($token);
+			header('Location: ' . $url); 
+			break;
+		  default:
+			/* Show notification if something went wrong. */
+			echo 'Could not connect to Twitter. Refresh the page or try again later.';
+		}
+			
+	}
+
+	public function post($access_token,$message){
+		 !empty($access_token)? $this->init($access_token) : "";
+		 $result = $this->connection->post('statuses/update',array('status'=>$message));
+	}
+	/*
+	 *  arr correctData(enum target , array fields)
+	 *  enum target  = Reference in targetMethod;
+	 *  array fields = text | 
+	*/
+	public function correctData($target,$fields,$access_token="",$limit_time = ""){
+		!empty($access_token)? $this->init($access_token) : "";
+		if(empty($this->oauth_token)) return array();
+		$result = $this->connection->get($this->targetMethod($target),array("count"=>"400"));
+		$temp = array();
+		for($i=0;$i<count($result);$i++){
+			$obj = @is_object($result[$i]->retweeted_status) ? $result[$i]->retweeted_status : $result[$i];
+			foreach($fields as $key=>$value){
+				if(is_array($value)){
+					$obj=$obj->$key;
+					foreach($value as $sub_key=>$sub_value){
+						$temp[$sub_value] = $obj->$sub_key;
+					}
+				}else
+				{
+					$temp[$value] = $obj->$key;
+				}
+			}
+			//if($temp["id"] != $this->oauth_uid && empty($result[$i]->favorited)) continue;
+			$get_media =get_url($temp["message"]);
+			$temp["type"] = empty($get_media["type"]) ? "text" : $get_media["type"][0];
+			$temp["count"] = $get_media["count"];
+			$temp["url"] = $get_media["url"];
+			$temp["media_description"] = "";
+			$temp["media_thumb"] = "";
+			$temp["source"] = "Twitter";
+			$temp["message"] = $get_media["content"];
+			
+			$temp["time"] = tstampToTime($temp["time"], "TWITTER"); 
+			if(!empty($limit_time) && $temp["time"] < mktime(0,0,0,date("m"),date("d"),date("Y"))) break;
+		
+			$this->data[] = $temp;
+		}
+		return $this->data;	
+	}
+	protected function get_url($contents) {
+    	$pattern = "/(http|https|ftp|mms):\/\/[0-9a-z-]+(\.[_0-9a-z-]+)+(:[0-9]{2,4})?\/?";       // domain+port
+        $pattern .= "([\.~_0-9a-z-]+\/?)*";               // sub roots
+        $pattern .= "(\S+\.[_0-9a-z]+)?";         
+	    $link_pattern =$pattern."(\?[_0-9a-z#%&=\-\+]+)*/i";    
+        $count = preg_match_all($link_pattern, $contents, $result);
+		for($i=0;$i<count($result[0]);$i++){
+	    	$img_pattern =$pattern."(\?[_0-9a-z#%&=\-\+]+)*.(jpg|png|bmp|jpeg|gif)/i";    
+			$type = $type=="photo" ? "mixed" : "link";
+        	if(preg_match($img_pattern, $result[0][$i], $sub_result)){
+				$type="photo";
+			}
+			break;
+		}
+		$temp=array("url" => $result[0],"type"=>$type,"count"=>$count);
+		return $temp;
+    }
+
+	protected function targetMethod($target){
+		$list = array(
+				"statuses/public_timeline" => 1,
+				"statuses/home_timeline" => 1,
+				"statuses/friends_timeline" => 1,
+				"statuses/user_timeline" => 1,
+				"statuses/mentions_timeline" => 1,
+				"statuses/retweeted_by_me" => 1,
+				"statuses/retweeted_to_me" => 1,
+				"statuses/update" => 1,
+				"statuses/show" => 1,
+				"statuses/destroy" => 1
+				);	
+		$list[$target]==1 ? "" : die("Unknown target");
+		return $target;
+	}
+
+	public function getApi($access_token){
+		!empty($access_token)? $this->init($access_token) : "";
+		$result = $this->connection->get("friends/ids");
+		return $result;
+	}
+
+
+}
+

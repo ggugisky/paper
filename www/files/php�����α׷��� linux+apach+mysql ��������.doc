@@ -1,0 +1,2484 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns:st2="urn:schemas:contacts" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=euc-kr">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List
+href="php웹프로그램어%20linux+apach+mysql%20서버관리.files/filelist.xml">
+<link rel=Edit-Time-Data
+href="php웹프로그램어%20linux+apach+mysql%20서버관리.files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>나의 인크루트 - 이력서 다운로드</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas:contacts" name="GivenName"/>
+<o:SmartTagType namespaceuri="urn:schemas:contacts" name="Sn"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="address"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="date"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PersonName"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>꾸기</o:Author>
+  <o:LastAuthor>꾸기</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>43</o:TotalTime>
+  <o:Created>2006-07-18T05:44:00Z</o:Created>
+  <o:LastSaved>2006-07-18T06:27:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>398</o:Words>
+  <o:Characters>2271</o:Characters>
+  <o:Company>꾸기닷컴</o:Company>
+  <o:Lines>18</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2664</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }st2\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<link rel=Stylesheet type="text/css" media=all
+href="http://image.incruit.com/css/incruit_all.css">
+<link rel=Stylesheet type="text/css" media=all
+href="http://image.incruit.com/css/incruit_global.css">
+<link rel=Stylesheet type="text/css" media=all
+href="http://image.incruit.com/css/incruit_my.css">
+<style>
+<!--#SUBMIT
+	{background:ffffff;
+	border-color : 999999;
+	font-color:3B415B;}
+
+ /* Font Definitions */
+ @font-face
+	{font-family:바탕;
+	panose-1:2 3 6 0 0 1 1 1 1 1;
+	mso-font-alt:Batang;
+	mso-font-charset:129;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:돋움;
+	panose-1:2 11 6 0 0 1 1 1 1 1;
+	mso-font-alt:Dotum;
+	mso-font-charset:129;
+	mso-generic-font-family:modern;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:굴림;
+	panose-1:2 11 6 0 0 1 1 1 1 1;
+	mso-font-alt:Gulim;
+	mso-font-charset:129;
+	mso-generic-font-family:modern;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:돋움체;
+	panose-1:2 11 6 9 0 1 1 1 1 1;
+	mso-font-charset:129;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"\@돋움";
+	panose-1:2 11 6 0 0 1 1 1 1 1;
+	mso-font-charset:129;
+	mso-generic-font-family:modern;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:"\@굴림";
+	panose-1:2 11 6 0 0 1 1 1 1 1;
+	mso-font-charset:129;
+	mso-generic-font-family:modern;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:"\@바탕";
+	panose-1:2 3 6 0 0 1 1 1 1 1;
+	mso-font-charset:129;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:"\@돋움체";
+	panose-1:2 11 6 9 0 1 1 1 1 1;
+	mso-font-charset:129;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+a:link, span.MsoHyperlink
+	{color:#004B60;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#004B60;}
+p
+	{font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.input, li.input, div.input
+	{mso-style-name:input;
+	font-size:9.0pt;
+	mso-fareast-font-family:굴림;
+	color:black;}
+p.input02, li.input02, div.input02
+	{mso-style-name:input02;
+	font-size:9.0pt;
+	mso-fareast-font-family:굴림;
+	color:black;}
+p.han, li.han, div.han
+	{mso-style-name:han;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.contents, li.contents, div.contents
+	{mso-style-name:contents;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.footertable, li.footertable, div.footertable
+	{mso-style-name:footer_table;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#101010;}
+p.contentsgray01, li.contentsgray01, div.contentsgray01
+	{mso-style-name:contents_gray01;
+	font-size:9.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#3E3E3E;}
+p.global, li.global, div.global
+	{mso-style-name:global;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.contentsgray02, li.contentsgray02, div.contentsgray02
+	{mso-style-name:contents_gray02;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#404040;}
+p.promotiontxt, li.promotiontxt, div.promotiontxt
+	{mso-style-name:promotion_txt;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#101010;}
+p.black, li.black, div.black
+	{mso-style-name:black;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.blackbold, li.blackbold, div.blackbold
+	{mso-style-name:black_bold;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.grayblue, li.grayblue, div.grayblue
+	{mso-style-name:gray_blue;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#666666;}
+p.grayblue03, li.grayblue03, div.grayblue03
+	{mso-style-name:gray_blue03;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#404040;}
+p.contentssubmenu, li.contentssubmenu, div.contentssubmenu
+	{mso-style-name:contents_submenu;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#323232;}
+p.atitle, li.atitle, div.atitle
+	{mso-style-name:a_title;
+	font-size:10.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#333333;}
+p.blue, li.blue, div.blue
+	{mso-style-name:blue;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.blue02, li.blue02, div.blue02
+	{mso-style-name:blue02;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.blue03, li.blue03, div.blue03
+	{mso-style-name:blue03;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.blue04, li.blue04, div.blue04
+	{mso-style-name:blue04;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.blue05, li.blue05, div.blue05
+	{mso-style-name:blue05;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.joblisttitle, li.joblisttitle, div.joblisttitle
+	{mso-style-name:joblist_title;
+	font-size:9.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#1A6188;}
+p.joblist, li.joblist, div.joblist
+	{mso-style-name:joblist;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.spacer, li.spacer, div.spacer
+	{mso-style-name:spacer;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.submit, li.submit, div.submit
+	{mso-style-name:submit;
+	font-size:12.0pt;
+	mso-bidi-font-family:굴림;}
+p.textarea, li.textarea, div.textarea
+	{mso-style-name:textarea;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.whiteinput, li.whiteinput, div.whiteinput
+	{mso-style-name:whiteinput;
+	font-size:9.0pt;
+	mso-fareast-font-family:굴림;
+	color:black;}
+p.select, li.select, div.select
+	{mso-style-name:select;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.disable, li.disable, div.disable
+	{mso-style-name:disable;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.input1, li.input1, div.input1
+	{mso-style-name:input1;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.submit1, li.submit1, div.submit1
+	{mso-style-name:submit1;
+	font-size:8.0pt;
+	mso-fareast-font-family:굴림;}
+p.submit3, li.submit3, div.submit3
+	{mso-style-name:submit3;
+	font-size:8.0pt;
+	mso-fareast-font-family:굴림;}
+p.submit4, li.submit4, div.submit4
+	{mso-style-name:submit4;
+	font-size:8.0pt;
+	mso-fareast-font-family:굴림;}
+p.submit5, li.submit5, div.submit5
+	{mso-style-name:submit5;
+	font-size:8.0pt;
+	mso-fareast-font-family:굴림;}
+p.submit6, li.submit6, div.submit6
+	{mso-style-name:submit6;
+	font-size:8.0pt;
+	mso-fareast-font-family:굴림;}
+p.submit7, li.submit7, div.submit7
+	{mso-style-name:submit7;
+	font-size:8.0pt;
+	mso-fareast-font-family:굴림;}
+p.submit8, li.submit8, div.submit8
+	{mso-style-name:submit8;
+	font-size:8.0pt;
+	mso-fareast-font-family:굴림;}
+p.gray, li.gray, div.gray
+	{mso-style-name:gray;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.tjcontents-gray, li.tjcontents-gray, div.tjcontents-gray
+	{mso-style-name:tjcontents-gray;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.tjcontents-gray02, li.tjcontents-gray02, div.tjcontents-gray02
+	{mso-style-name:tjcontents-gray02;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.tjcontents-gray04, li.tjcontents-gray04, div.tjcontents-gray04
+	{mso-style-name:tjcontents-gray04;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.adsection, li.adsection, div.adsection
+	{mso-style-name:ad_section;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#0000CC;}
+p.hansmall, li.hansmall, div.hansmall
+	{mso-style-name:hansmall;
+	font-size:8.0pt;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.jobsearchbtn, li.jobsearchbtn, div.jobsearchbtn
+	{mso-style-name:jobsearchbtn;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.hanleft, li.hanleft, div.hanleft
+	{mso-style-name:hanleft;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.hanblack, li.hanblack, div.hanblack
+	{mso-style-name:hanblack;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.hanlineheight, li.hanlineheight, div.hanlineheight
+	{mso-style-name:hanlineheight;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.commublue, li.commublue, div.commublue
+	{mso-style-name:commu_blue;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#1A6188;}
+p.commupink, li.commupink, div.commupink
+	{mso-style-name:commu_pink;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#C5568A;}
+p.commuviolet, li.commuviolet, div.commuviolet
+	{mso-style-name:commu_violet;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#5D3D87;}
+p.contentsguc, li.contentsguc, div.contentsguc
+	{mso-style-name:contents_guc;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#404040;}
+p.en, li.en, div.en
+	{mso-style-name:en;
+	font-size:9.0pt;
+	mso-fareast-font-family:굴림;
+	color:black;}
+p.menu, li.menu, div.menu
+	{mso-style-name:menu;
+	font-size:10.0pt;
+	mso-bidi-font-family:굴림;}
+p.errormsg, li.errormsg, div.errormsg
+	{mso-style-name:errormsg;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.secondmenu, li.secondmenu, div.secondmenu
+	{mso-style-name:secondmenu;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.leftmenu, li.leftmenu, div.leftmenu
+	{mso-style-name:leftmenu;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.footermenu, li.footermenu, div.footermenu
+	{mso-style-name:footermenu;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.incnewshead, li.incnewshead, div.incnewshead
+	{mso-style-name:incnewshead;
+	font-size:15.0pt;
+	mso-bidi-font-family:굴림;}
+p.incnewslist, li.incnewslist, div.incnewslist
+	{mso-style-name:incnewslist;
+	font-size:10.0pt;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.jobspothead, li.jobspothead, div.jobspothead
+	{mso-style-name:jobspothead;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.jobspotlist, li.jobspotlist, div.jobspotlist
+	{mso-style-name:jobspotlist;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.hotjobslist, li.hotjobslist, div.hotjobslist
+	{mso-style-name:hotjobslist;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.jobshort, li.jobshort, div.jobshort
+	{mso-style-name:jobshort;
+	font-size:10.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.jobdb, li.jobdb, div.jobdb
+	{mso-style-name:jobdb;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.jobspotlist1, li.jobspotlist1, div.jobspotlist1
+	{mso-style-name:jobspotlist1;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.edulist, li.edulist, div.edulist
+	{mso-style-name:edulist;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.plaza, li.plaza, div.plaza
+	{mso-style-name:plaza;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.firstmenu, li.firstmenu, div.firstmenu
+	{mso-style-name:firstmenu;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.sublist, li.sublist, div.sublist
+	{mso-style-name:sublist;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.sub2, li.sub2, div.sub2
+	{mso-style-name:sub2;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.jobdblist1, li.jobdblist1, div.jobdblist1
+	{mso-style-name:jobdb_list1;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#4A4D4A;}
+p.jobdbregular, li.jobdbregular, div.jobdbregular
+	{mso-style-name:jobdb_regular;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:white;}
+p.jobdb1, li.jobdb1, div.jobdb1
+	{mso-style-name:jobdb1;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.firstmenu1, li.firstmenu1, div.firstmenu1
+	{mso-style-name:firstmenu1;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.myleftmenu2, li.myleftmenu2, div.myleftmenu2
+	{mso-style-name:my_leftmenu2;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.mainlist, li.mainlist, div.mainlist
+	{mso-style-name:mainlist;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.mainlist1, li.mainlist1, div.mainlist1
+	{mso-style-name:mainlist1;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.mainhotjobs, li.mainhotjobs, div.mainhotjobs
+	{mso-style-name:mainhotjobs;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.foot, li.foot, div.foot
+	{mso-style-name:foot;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.newclub, li.newclub, div.newclub
+	{mso-style-name:newclub;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.topmenu, li.topmenu, div.topmenu
+	{mso-style-name:topmenu;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.firstmenu0, li.firstmenu0, div.firstmenu0
+	{mso-style-name:first_menu;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:white;}
+p.mainleftmenu, li.mainleftmenu, div.mainleftmenu
+	{mso-style-name:main_leftmenu;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.nonlinknb, li.nonlinknb, div.nonlinknb
+	{mso-style-name:nonlink_n_b;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.layout, li.layout, div.layout
+	{mso-style-name:layout;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.ttl, li.ttl, div.ttl
+	{mso-style-name:ttl;
+	font-size:19.0pt;
+	mso-bidi-font-family:굴림;}
+p.han02, li.han02, div.han02
+	{mso-style-name:han02;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.lim, li.lim, div.lim
+	{mso-style-name:lim;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.contentstit11, li.contentstit11, div.contentstit11
+	{mso-style-name:contents_tit11;
+	font-size:11.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.contentsblue, li.contentsblue, div.contentsblue
+	{mso-style-name:contents_blue;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#075287;}
+p.promotion, li.promotion, div.promotion
+	{mso-style-name:promotion;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.ibbtn, li.ibbtn, div.ibbtn
+	{mso-style-name:ibbtn;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.searchbtn, li.searchbtn, div.searchbtn
+	{mso-style-name:searchbtn;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.searchbtn2, li.searchbtn2, div.searchbtn2
+	{mso-style-name:searchbtn2;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.recruiter1, li.recruiter1, div.recruiter1
+	{mso-style-name:recruiter1;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.td, li.td, div.td
+	{mso-style-name:td;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.contentsgray, li.contentsgray, div.contentsgray
+	{mso-style-name:contents_gray;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#101010;}
+p.tjcontents-small, li.tjcontents-small, div.tjcontents-small
+	{mso-style-name:tjcontents-small;
+	font-size:8.0pt;
+	mso-bidi-font-family:굴림;}
+p.underline-gray, li.underline-gray, div.underline-gray
+	{mso-style-name:underline-gray;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.hansmallunder, li.hansmallunder, div.hansmallunder
+	{mso-style-name:hansmallunder;
+	font-size:8.0pt;
+	mso-bidi-font-family:굴림;}
+p.hansmallmenu, li.hansmallmenu, div.hansmallmenu
+	{mso-style-name:hansmall_menu;
+	font-size:8.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#4F4F30;}
+p.han1, li.han1, div.han1
+	{mso-style-name:han1;
+	font-size:8.5pt;
+	mso-fareast-font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.jobdbhead, li.jobdbhead, div.jobdbhead
+	{mso-style-name:jobdbhead;
+	font-size:10.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.whitefont, li.whitefont, div.whitefont
+	{mso-style-name:white_font;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:white;}
+p.deepgrayfont, li.deepgrayfont, div.deepgrayfont
+	{mso-style-name:deepgray_font;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#505050;}
+p.topmenu1depth, li.topmenu1depth, div.topmenu1depth
+	{mso-style-name:topmenu_1depth;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#000452;}
+p.leftmenunonlink, li.leftmenunonlink, div.leftmenunonlink
+	{mso-style-name:leftmenu_nonlink;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:white;}
+p.topmenucorp, li.topmenucorp, div.topmenucorp
+	{mso-style-name:topmenu_corp;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:white;}
+p.topmenu2depth, li.topmenu2depth, div.topmenu2depth
+	{mso-style-name:topmenu_2depth;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:white;}
+p.category1, li.category1, div.category1
+	{mso-style-name:category1;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.sitemap, li.sitemap, div.sitemap
+	{mso-style-name:sitemap;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.sbody, li.sbody, div.sbody
+	{mso-style-name:sbody;
+	font-size:8.0pt;
+	mso-bidi-font-family:굴림;}
+p.headbt, li.headbt, div.headbt
+	{mso-style-name:head_bt;
+	font-size:15.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.head, li.head, div.head
+	{mso-style-name:head;
+	font-size:18.0pt;
+	mso-bidi-font-family:굴림;}
+p.cont, li.cont, div.cont
+	{mso-style-name:cont;
+	font-size:11.5pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.headbt2, li.headbt2, div.headbt2
+	{mso-style-name:head_bt2;
+	font-size:15.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#000090;}
+p.headbt3, li.headbt3, div.headbt3
+	{mso-style-name:head_bt3;
+	font-size:13.5pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#000090;}
+p.midbt, li.midbt, div.midbt
+	{mso-style-name:mid_bt;
+	font-size:10.5pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#171078;}
+p.midbt02, li.midbt02, div.midbt02
+	{mso-style-name:mid_bt02;
+	font-size:12.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#171078;}
+p.midbt03, li.midbt03, div.midbt03
+	{mso-style-name:mid_bt03;
+	font-size:10.5pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#171078;}
+p.bt, li.bt, div.bt
+	{mso-style-name:bt;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.smallbt, li.smallbt, div.smallbt
+	{mso-style-name:small_bt;
+	font-size:9.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#000090;}
+p.recruitersubb, li.recruitersubb, div.recruitersubb
+	{mso-style-name:recruiter_sub_b;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:white;}
+p.recruitermenu, li.recruitermenu, div.recruitermenu
+	{mso-style-name:recruiter_menu;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:white;}
+p.recruitersub, li.recruitersub, div.recruitersub
+	{mso-style-name:recruiter_sub;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#CAD5F9;}
+p.recruitersubview, li.recruitersubview, div.recruitersubview
+	{mso-style-name:recruiter_sub_view;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#333333;}
+p.soo, li.soo, div.soo
+	{mso-style-name:soo;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.mainpromotion, li.mainpromotion, div.mainpromotion
+	{mso-style-name:main_promotion;
+	font-size:8.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.text002, li.text002, div.text002
+	{mso-style-name:text002;
+	font-size:10.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.textlist01, li.textlist01, div.textlist01
+	{mso-style-name:text_list01;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#666666;}
+p.textlist02, li.textlist02, div.textlist02
+	{mso-style-name:text_list02;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#666666;}
+p.ptt, li.ptt, div.ptt
+	{mso-style-name:ptt;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.extext, li.extext, div.extext
+	{mso-style-name:extext;
+	font-size:8.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.smallblack, li.smallblack, div.smallblack
+	{mso-style-name:smallblack;
+	font-size:8.0pt;
+	mso-bidi-font-family:굴림;}
+p.map, li.map, div.map
+	{mso-style-name:map;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.p11, li.p11, div.p11
+	{mso-style-name:p11;
+	font-size:8.5pt;
+	mso-bidi-font-family:굴림;}
+p.lh15, li.lh15, div.lh15
+	{mso-style-name:lh15;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.lh16, li.lh16, div.lh16
+	{mso-style-name:lh16;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.lh17, li.lh17, div.lh17
+	{mso-style-name:lh17;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.lh18, li.lh18, div.lh18
+	{mso-style-name:lh18;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.lh22, li.lh22, div.lh22
+	{mso-style-name:lh22;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.ba, li.ba, div.ba
+	{mso-style-name:ba;
+	font-size:8.5pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.gr01, li.gr01, div.gr01
+	{mso-style-name:gr01;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.gr02, li.gr02, div.gr02
+	{mso-style-name:gr02;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.o01, li.o01, div.o01
+	{mso-style-name:o01;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;}
+p.hangray, li.hangray, div.hangray
+	{mso-style-name:han_gray;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#494949;}
+p.backlightgreen, li.backlightgreen, div.backlightgreen
+	{mso-style-name:back_lightgreen;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.maincompanymenu, li.maincompanymenu, div.maincompanymenu
+	{mso-style-name:main_company_menu;
+	font-size:9.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.cambox, li.cambox, div.cambox
+	{mso-style-name:cam_box;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.camboxline, li.camboxline, div.camboxline
+	{mso-style-name:cam_boxline;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.camnbox, li.camnbox, div.camnbox
+	{mso-style-name:cam_nbox;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.camtbox, li.camtbox, div.camtbox
+	{mso-style-name:cam_tbox;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.camnullbox, li.camnullbox, div.camnullbox
+	{mso-style-name:cam_null_box;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#333333;}
+p.cammenu, li.cammenu, div.cammenu
+	{mso-style-name:cam_menu;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#07366E;}
+p.camlefttitle, li.camlefttitle, div.camlefttitle
+	{mso-style-name:cam_left_title;
+	font-size:10.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#214D73;}
+p.news01, li.news01, div.news01
+	{mso-style-name:news01;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.newsfast, li.newsfast, div.newsfast
+	{mso-style-name:news_fast;
+	font-size:10.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#171078;}
+p.newsview, li.newsview, div.newsview
+	{mso-style-name:news_view;
+	font-size:10.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.titlebig, li.titlebig, div.titlebig
+	{mso-style-name:title_big;
+	font-size:10.5pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.yellowback, li.yellowback, div.yellowback
+	{mso-style-name:yellow_back;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.greenback, li.greenback, div.greenback
+	{mso-style-name:green_back;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.grayorange, li.grayorange, div.grayorange
+	{mso-style-name:gray_orange;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#606060;}
+p.news, li.news, div.news
+	{mso-style-name:news;
+	font-size:18.0pt;
+	mso-bidi-font-family:굴림;}
+p.hansmallunder0, li.hansmallunder0, div.hansmallunder0
+	{mso-style-name:hansmall_under;
+	font-size:9.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#606060;}
+p.infojobdb, li.infojobdb, div.infojobdb
+	{mso-style-name:info_jobdb;
+	font-size:9.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#4144AD;}
+p.infochief, li.infochief, div.infochief
+	{mso-style-name:info_chief;
+	font-size:9.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#33725B;}
+p.infostaffing, li.infostaffing, div.infostaffing
+	{mso-style-name:info_staffing;
+	font-size:9.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#9041AD;}
+p.black1, li.black1, div.black1
+	{mso-style-name:black1;
+	font-size:9.0pt;
+	mso-bidi-font-family:굴림;}
+p.regionsbody, li.regionsbody, div.regionsbody
+	{mso-style-name:region_sbody;
+	font-size:8.5pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#20347D;}
+p.regionprice, li.regionprice, div.regionprice
+	{mso-style-name:region_price;
+	font-size:9.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#676767;}
+p.regionsize14, li.regionsize14, div.regionsize14
+	{mso-style-name:region_size14;
+	font-size:10.5pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#FF7800;}
+p.background, li.background, div.background
+	{mso-style-name:background;
+	font-size:12.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.contentsblue01, li.contentsblue01, div.contentsblue01
+	{mso-style-name:contents_blue01;
+	font-size:9.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#666666;}
+p.contentsblue02, li.contentsblue02, div.contentsblue02
+	{mso-style-name:contents_blue02;
+	font-size:9.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#404040;}
+p.contentsblue03, li.contentsblue03, div.contentsblue03
+	{mso-style-name:contents_blue03;
+	font-size:9.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#B07210;}
+p.globaltop, li.globaltop, div.globaltop
+	{mso-style-name:global_top;
+	font-size:9.0pt;
+	font-family:돋움;
+	mso-bidi-font-family:굴림;
+	color:#404040;}
+p.globalright, li.globalright, div.globalright
+	{mso-style-name:global_right;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.globaltd, li.globaltd, div.globaltd
+	{mso-style-name:global_td;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:black;}
+p.grayblue1, li.grayblue1, div.grayblue1
+	{mso-style-name:gray_blue1;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:9.0pt;
+	font-family:굴림;
+	mso-bidi-font-family:굴림;
+	color:#666666;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:99.25pt 3.0cm 3.0cm 3.0cm;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"표준 표";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+<meta name=Keywords
+content="취업, 구인, 구직, 아르바이트, 헤드헌팅, 타운잡, 자격증, 취업정보, 취업 정보, 취업뉴스, 취업 속보, 취업 뉴스, 취업상담실, 해외취업, 취업센터, 취업성공, 취업교육센터, 취업포털, 취업사이트, 채용, 채용포털, 채용정보, 고용정보, 알바, 일자리, 구인, 구인정보, 구직, 이력서, Work, Job, Career, Recruit, 전직, 재취업, 여성취업, 정보통신취업, IT취업, 임원, CEO, 인쿠르트, 리쿠르트, 리크루트, 기업, 대기업, 중소기업, 벤처기업, 인크루트, Incruit, dlszmfnxm, 인터넷 채용 시스템">
+<meta name=Description
+content="업종별, 직종별 취업정보, 구인구직, 아르바이트, 헤드헌팅, 채용속보, 취업 뉴스, 인터넷 이력서 서비스, 자기소개서 작성 방법, 경력개발 및 연봉검색 등 제공.">
+<meta http-equiv=content-language content=ko>
+<!--오버츄어 스크립트 추가 2005.05.02 by kkh-->
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.a) x=d.a[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+	var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+	if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function win_open(theURL,winName,features){ window.open(theURL,winName,features); }
+
+//-->
+</script>
+
+<script language="JavaScript">
+<!-- Overture Services, Inc
+var pm_tagname = "universalTag.txt";
+var pm_tagversion = "1.4";
+var pm_accountid = "B5QOLA2K6M8TQM2B78CVG78KJ4";
+var pm_scripthost = "srv.perf.overture.com";
+var pm_customargs = "";
+var pm_querystr = "?" + "ver=" + pm_tagversion + "&aid=" + pm_accountid + pm_customargs;
+var pm_tag = "<SCR" + "IPT LANGUAGE='JavaScript' " + "SRC=//" + pm_scripthost + "/collweb/ScriptServlet" + pm_querystr + "></SCR" + "IPT>";
+document.write(pm_tag);
+// -->
+</script>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white lang=KO link="#004B60" vlink="#004B60" style='tab-interval:
+40.0pt' leftmargin=20 topmargin=0>
+
+<div class=Section1>
+
+<p style='text-align:justify;text-justify:inter-ideograph'><span class=SpellE><b><span
+lang=EN-US style='font-size:20.0pt;font-family:돋움;letter-spacing:-1.0pt'>php</span></b><b><span
+style='font-size:20.0pt;font-family:돋움;letter-spacing:-1.0pt'>웹프로그램어</span></b></span><b><span
+lang=EN-US style='font-size:20.0pt;font-family:돋움;letter-spacing:-1.0pt'>/ <span
+class=SpellE>linux+apach+mysql</span> </span></b><b><span style='font-size:
+20.0pt;font-family:돋움;letter-spacing:-1.0pt'>서버관리</span></span></b><span
+lang=EN-US style='font-size:20.0pt'><o:p></o:p></span></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=620
+ style='width:465.0pt;border-collapse:collapse;border:none;mso-border-alt:outset #9C9A9C .75pt;
+ mso-padding-alt:0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.5pt'>
+  <td colspan=5 style='border:inset #9C9A9C 1.0pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:22.5pt'>
+  <p class=MsoNormal style='line-height:130%'><span lang=EN-US
+  style='font-size:8.5pt;line-height:130%;font-family:돋움;color:#404040'><!--기본내용--><span
+  style='mso-spacerun:yes'>&nbsp;</span>(</span><span class=SpellE><span
+  style='font-size:8.5pt;line-height:130%;font-family:돋움;color:#404040'>인크루트</span></span><span
+  style='font-size:8.5pt;line-height:130%;font-family:돋움;color:#404040'> 신뢰 인증마크를
+  획득한 인재<span lang=EN-US>)</span></span><span lang=EN-US style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:18.75pt'>
+  <td width=150 rowspan=5 style='width:112.5pt;border:inset #9C9A9C 1.0pt;
+  border-top:none;mso-border-top-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span lang=EN-US
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><img
+  width=114 height=152 id="_x0000_i1025"
+  src="http://myphoto.incruit.com/2006/7/tear1004a_6272943259_1152111107312.jpg"><o:p></o:p></span></p>
+  </td>
+  <td width=100 style='width:75.0pt;border-top:none;border-left:none;
+  border-bottom:inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;
+  mso-border-top-alt:inset #9C9A9C .75pt;mso-border-left-alt:inset #9C9A9C .75pt;
+  mso-border-alt:inset #9C9A9C .75pt;background:#CCCCCC;padding:0cm 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>성명<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=120 style='width:90.0pt;border-top:none;border-left:none;
+  border-bottom:inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;
+  mso-border-top-alt:inset #9C9A9C .75pt;mso-border-left-alt:inset #9C9A9C .75pt;
+  mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><st1:PersonName w:st="on"><st2:Sn
+   w:st="on"><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+    color:#404040'>권</span></st2:Sn><st2:GivenName w:st="on"><span
+    style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>현국</span></st2:GivenName></st1:PersonName><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+  <td width=90 style='width:67.5pt;border-top:none;border-left:none;border-bottom:
+  inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>전화번호<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=160 style='width:120.0pt;border-top:none;border-left:none;
+  border-bottom:inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;
+  mso-border-top-alt:inset #9C9A9C .75pt;mso-border-left-alt:inset #9C9A9C .75pt;
+  mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span lang=EN-US
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>054-976-6763<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:18.75pt'>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>생년월일<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><st1:date o:ls="trans" Year="1982"
+  Month="6" Day="24" w:st="on"><span lang=EN-US style='font-size:9.0pt;
+   line-height:130%;font-family:돋움;color:#404040'>1982</span><span
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>년<span
+   lang=EN-US> 6</span>월<span lang=EN-US> 24</span>일</span></st1:date><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>생<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>휴대전화<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span lang=EN-US
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>018-688-6763<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:18.75pt'>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 0cm 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span lang=EN-US
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>E-mail<o:p></o:p></span></p>
+  </td>
+  <td colspan=3 style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 0cm 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span lang=EN-US
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><a
+  href="mailto:tear1004a@hanmail.net">tear1004a@hanmail.net</a><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:18.75pt'>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>주소<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td colspan=3 style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><st1:address o:ls="trans" w:st="on"><span
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>경북 경산시
+   <span class=SpellE>하양읍</span> 부호<span lang=EN-US>1</span>리<span lang=EN-US>
+   389</span></span></st1:address><span lang=EN-US style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:18.75pt'>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>홈페이지<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td colspan=3 style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span lang=EN-US
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><a
+  href="http://ggugi.com" target="_brank">http://ggugi.com</a><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;background:#CCCCCC;
+  padding:2.25pt 2.25pt 2.25pt 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>희망직종<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td colspan=4 style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:2.25pt 2.25pt 2.25pt 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span lang=EN-US
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>UNIX</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>·<span
+  lang=EN-US>LINUX</span>계열 서버운영·관리<span lang=EN-US>, <span class=SpellE>MySQL</span>,
+  </span><span class=SpellE>웹마스터</span><span lang=EN-US>, HTML</span>·<span
+  lang=EN-US>DHTML, PHP<o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;background:#CCCCCC;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>희망업종<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td colspan=4 style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>컴퓨터<span lang=EN-US> (</span>소프트웨어<span
+  lang=EN-US>), </span>컴퓨터<span lang=EN-US> (</span>인터넷·뉴미디어<span lang=EN-US>)<o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;background:#CCCCCC;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>고용형태<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>정규직<span class=GramE><span
+  lang=EN-US>,</span>계약직<span lang=EN-US>,</span>프리랜서</span><span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>희망근무지<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td colspan=2 style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>대구<span lang=EN-US>, </span>대구<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;mso-yfti-lastrow:yes;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;background:#CCCCCC;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>희망연봉<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span lang=EN-US
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>1600~1800</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>만원<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>현재상태<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td colspan=2 style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:130%'><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>사회초년생<span lang=EN-US> (3</span>년
+  이하<span lang=EN-US>)<o:p></o:p></span></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><br
+style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]><!--기본내용--></span></p>
+
+<!--학력사항 -->
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=620
+ style='width:465.0pt;border-collapse:collapse;border:none;mso-border-alt:outset #9C9A9C .75pt;
+ mso-padding-alt:0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:18.75pt'>
+  <td colspan=3 style='border:inset #9C9A9C 1.0pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 0cm 0cm 0cm;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><b><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>학력사항</span></b><b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#666666'>l</span></b><b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>
+  </span></b><b><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+  color:#404040'>고등학교 졸업</span></b><span lang=EN-US style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:18.75pt'>
+  <td width=180 style='width:135.0pt;border:inset #9C9A9C 1.0pt;border-top:
+  none;mso-border-top-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>2001</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>년<span
+  lang=EN-US>03</span>월<span lang=EN-US> ~ 2006</span>년<span lang=EN-US>07</span>월<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=360 style='width:270.0pt;border-top:none;border-left:none;
+  border-bottom:inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;
+  mso-border-top-alt:inset #9C9A9C .75pt;mso-border-left-alt:inset #9C9A9C .75pt;
+  mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  class=SpellE><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+  color:#404040'>경일전문대학</span></span><span style='font-size:9.0pt;line-height:
+  130%;font-family:돋움;color:#404040'> 공학계열 컴퓨터공학 중퇴<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=80 style='width:60.0pt;border-top:none;border-left:none;border-bottom:
+  inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>3.9/4.5<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><br
+style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]></span></p>
+
+<!--경력사항 -->
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=620
+ style='width:465.0pt;border-collapse:collapse;border:none;mso-border-alt:outset #9C9A9C .75pt;
+ mso-padding-alt:0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:18.75pt'>
+  <td colspan=3 style='border:inset #9C9A9C 1.0pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 0cm 0cm 0cm;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><b><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>경력사항</span></b><b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#666666'>l</span></b><b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>
+  </span></b><b><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+  color:#404040'>경력<span lang=EN-US> 1</span>년<span lang=EN-US>6</span>개월</span></b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:18.75pt'>
+  <td width=180 style='width:135.0pt;border:inset #9C9A9C 1.0pt;border-top:
+  none;mso-border-top-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:2.25pt 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>2005</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>년<span
+  lang=EN-US>12</span>월<span lang=EN-US> ~ 2006</span>년<span lang=EN-US>03</span>월<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=340 style='width:255.0pt;border-top:none;border-left:none;
+  border-bottom:inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;
+  mso-border-top-alt:inset #9C9A9C .75pt;mso-border-left-alt:inset #9C9A9C .75pt;
+  mso-border-alt:inset #9C9A9C .75pt;background:#EFEFEF;padding:2.25pt 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span class=SpellE><b><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>다인컴퍼니</span></b></span><b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>(http://daincompany.co.kr)</span></b><span
+  class=SpellE><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+  color:#404040'>ㅣ</span></span><span style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'> <span class=SpellE>웹지원팀</span><span
+  lang=EN-US><br>
+  </span><b style='mso-bidi-font-weight:normal'>담당업무<span lang=EN-US>:</span></b><span
+  lang=EN-US><o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span lang=EN-US style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'>-</span><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>본사사이트<span lang=EN-US>(<a
+  href="http://daincompany.co.kr/">http://daincompany.co.kr</a>)</span>시스템전반<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  text-indent:4.5pt;mso-char-indent-count:.5;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>개발<span
+  lang=EN-US>(</span>로그인<span class=GramE><span lang=EN-US>,<span class=SpellE>bbs</span>,</span>가맹관리시스템</span><span
+  lang=EN-US>)<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span lang=EN-US style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'>-</span><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>본사쇼핑몰<span lang=EN-US>(<a
+  href="http://shoesbay.co.kr/">http://shoesbay.co.kr</a>)</span><span
+  class=SpellE>리뉴얼작업</span><span lang=EN-US><o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  text-indent:6.0pt;line-height:130%'><span lang=EN-US style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>*logic</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>시스템 개발 <span
+  lang=EN-US><o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  text-indent:6.0pt;line-height:130%'><span lang=EN-US style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>*</span><span class=SpellE><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>백오피스시스템</span></span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'> <span
+  class=SpellE>전반적인개발</span><span lang=EN-US><o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span lang=EN-US style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'>-</span><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>가맹점 <span class=SpellE>카인드포유</span><span
+  lang=EN-US>(<a href="http://kind4u.com/">http://kind4u.com</a>)</span>개발<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  text-indent:6.0pt;line-height:130%'><span lang=EN-US style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>*</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>쇼핑몰 시스템
+  개발 <span lang=EN-US><o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  text-indent:6.0pt;line-height:130%'><span lang=EN-US style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>*</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>본사와 재고관리
+  판매관리 연동 시스템 개발<span lang=EN-US> <o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  text-indent:6.0pt;line-height:130%'><span lang=EN-US style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span lang=EN-US style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'>-</span><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>서버관리<span lang=EN-US>:<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  text-indent:9.0pt;mso-char-indent-count:1.0;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>*mail</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>서버 설치 및
+  메일계정 발급 <span lang=EN-US><o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  text-indent:9.0pt;mso-char-indent-count:1.0;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>*</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>네임서버 설치
+  및 가맹점증설에 따른 <span class=SpellE>도메인포워딩</span><span lang=EN-US> <o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  text-indent:9.0pt;mso-char-indent-count:1.0;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>*DB
+  </span><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+  color:#404040'>백업 및 복구 <span lang=EN-US><o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span lang=EN-US style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'><span style='mso-spacerun:yes'>&nbsp; </span><o:p></o:p></span></p>
+  </td>
+  <td width=100 style='width:75.0pt;border-top:none;border-left:none;
+  border-bottom:inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;
+  mso-border-top-alt:inset #9C9A9C .75pt;mso-border-left-alt:inset #9C9A9C .75pt;
+  mso-border-alt:inset #9C9A9C .75pt;padding:2.25pt 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>주임<span
+  lang=EN-US>(</span>연구원<span lang=EN-US>)<o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:18.75pt'>
+  <td width=180 style='width:135.0pt;border:inset #9C9A9C 1.0pt;border-top:
+  none;mso-border-top-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:2.25pt 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>2002</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>년<span
+  lang=EN-US>03</span>월<span lang=EN-US> ~ 2003</span>년<span lang=EN-US>06</span>월<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=340 style='width:255.0pt;border-top:none;border-left:none;
+  border-bottom:inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;
+  mso-border-top-alt:inset #9C9A9C .75pt;mso-border-left-alt:inset #9C9A9C .75pt;
+  mso-border-alt:inset #9C9A9C .75pt;background:#EFEFEF;padding:2.25pt 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span class=SpellE><b><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>퀵비디오</span></b></span><b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>(http://qvdo.com)</span></b><span
+  class=SpellE><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+  color:#404040'>ㅣ</span></span><span style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'> 인터넷개발<span lang=EN-US><o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>담당업무</span></b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>:<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span lang=EN-US style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'>-</span><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>쇼핑몰시스템 개발 및 유지 보수<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span lang=EN-US style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'><span style='mso-spacerun:yes'>&nbsp;</span>*</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>기본적인 쇼핑몰
+  시스템 개발<span lang=EN-US>(</span>쇼핑카드<span class=GramE><span lang=EN-US>,</span>예약<span
+  lang=EN-US>,</span>로그인<span lang=EN-US>,<span class=SpellE>bbs</span></span></span><span
+  lang=EN-US>)<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span lang=EN-US style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'>-</span><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>프랜차이즈 유치를 위한 시스템 개발<span
+  lang=EN-US> <o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span lang=EN-US style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'><span style='mso-spacerun:yes'>&nbsp;</span>*</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>지역별 가맹점
+  <span class=SpellE>으로</span> 연계작업 <span lang=EN-US><o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span lang=EN-US style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'><span style='mso-spacerun:yes'>&nbsp;</span>*</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>재고관리 및 판매관리
+  시스템<span lang=EN-US> <o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span lang=EN-US style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'>-</span><span class=SpellE><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>광고및마케팅</span></span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'> <span
+  class=GramE>업무 <span style='mso-spacerun:yes'>&nbsp;</span></span><span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=100 style='width:75.0pt;border-top:none;border-left:none;
+  border-bottom:inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;
+  mso-border-top-alt:inset #9C9A9C .75pt;mso-border-left-alt:inset #9C9A9C .75pt;
+  mso-border-alt:inset #9C9A9C .75pt;padding:2.25pt 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>사원<span
+  lang=EN-US>(</span>연구원<span lang=EN-US>)<o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:18.75pt'>
+  <td width=180 style='width:135.0pt;border:inset #9C9A9C 1.0pt;border-top:
+  none;mso-border-top-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:2.25pt 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>기타<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=340 style='width:255.0pt;border-top:none;border-left:none;
+  border-bottom:inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;
+  mso-border-top-alt:inset #9C9A9C .75pt;mso-border-left-alt:inset #9C9A9C .75pt;
+  mso-border-alt:inset #9C9A9C .75pt;background:#EFEFEF;padding:2.25pt 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><span class=SpellE><b><span style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>다이아툴뱅크</span></b></span><b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>(<a
+  href="http://dia-tool.co.kr/">http://dia-tool.co.kr</a>) | </span></b><b><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>프리랜서<span
+  lang=EN-US><o:p></o:p></span></span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><b><span style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'>공구판매 <span lang=EN-US>b2b</span>사이트<span
+  lang=EN-US> <o:p></o:p></span></span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:130%'><b><span style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'>담당업무</span></b><span lang=EN-US
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040;
+  mso-bidi-font-weight:bold'>: </span><span style='font-size:9.0pt;line-height:
+  130%;font-family:돋움;color:#404040;mso-bidi-font-weight:bold'>온라인견적서 시스템 개발 <span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=100 style='width:75.0pt;border-top:none;border-left:none;
+  border-bottom:inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;
+  mso-border-top-alt:inset #9C9A9C .75pt;mso-border-left-alt:inset #9C9A9C .75pt;
+  mso-border-alt:inset #9C9A9C .75pt;padding:2.25pt 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;line-height:
+  130%;font-family:돋움;color:#404040'>프리랜서<span lang=EN-US><o:p></o:p></span></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><br
+style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]></span></p>
+
+<!--어학 및 기타 능력사항 -->
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=620
+ style='width:465.0pt;border-collapse:collapse;border:none;mso-border-alt:outset #9C9A9C .75pt;
+ mso-padding-alt:0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:18.75pt'>
+  <td colspan=4 style='border:inset #9C9A9C 1.0pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><b><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>어학 및 기타
+  능력사항</span></b><span lang=EN-US style='font-size:9.0pt;line-height:130%;
+  font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:18.75pt'>
+  <td colspan=4 style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><img
+  border=0 width=9 height=9 id="_x0000_i1026"
+  src="http://image.incruit.com/a/my/200504/sq_arrow04.gif"></span><b><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>자격증명</span></b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><st1:date
+  o:ls="trans" Year="2003" Month="3" Day="1" w:st="on"><span lang=EN-US
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>2003</span><span
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>년<span
+   lang=EN-US>03</span>월<span lang=EN-US>01</span>일</span></st1:date><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+  <td colspan=2 style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>정보처리기능사<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>한국산업인력공단<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><st1:date
+  o:ls="trans" Year="2003" Month="5" Day="4" w:st="on"><span lang=EN-US
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>2003</span><span
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>년<span
+   lang=EN-US>05</span>월<span lang=EN-US>04</span>일</span></st1:date><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+  <td colspan=2 style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  class=SpellE><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+  color:#404040'>리눅스마스터</span></span><span lang=EN-US style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>한국정보통신인력개발센터<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><st1:date
+  o:ls="trans" Year="2003" Month="6" Day="1" w:st="on"><span lang=EN-US
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>2003</span><span
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>년<span
+   lang=EN-US>06</span>월<span lang=EN-US>01</span>일</span></st1:date><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+  <td colspan=2 style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>자동차운전면허<span
+  lang=EN-US> 1</span><span class=SpellE>종보통</span><span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>경찰청<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><st1:date
+  o:ls="trans" Year="2003" Month="11" Day="1" w:st="on"><span lang=EN-US
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>2003</span><span
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>년<span
+   lang=EN-US>11</span>월<span lang=EN-US>01</span>일</span></st1:date><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+  <td colspan=2 style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  class=SpellE><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+  color:#404040'>전자상거래운용사</span></span><span lang=EN-US style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>대한상공회의소<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><st1:date
+  o:ls="trans" Year="2006" Month="4" Day="1" w:st="on"><span lang=EN-US
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>2006</span><span
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>년<span
+   lang=EN-US>04</span>월<span lang=EN-US>01</span>일</span></st1:date><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+  <td colspan=2 style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  class=SpellE><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+  color:#404040'>컴퓨터운용사</span></span><span style='font-size:9.0pt;line-height:
+  130%;font-family:돋움;color:#404040'> 필기합격<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>대한상공회의소<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><st1:date
+  o:ls="trans" Year="2006" Month="5" Day="1" w:st="on"><span lang=EN-US
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>2006</span><span
+   style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>년<span
+   lang=EN-US>05</span>월<span lang=EN-US>01</span>일</span></st1:date><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+  <td colspan=2 style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>컴퓨터 활용능력<span
+  lang=EN-US>1</span>급 필기합격<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>대한상공회의소<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:18.75pt'>
+  <td colspan=4 style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:1.5pt 2.25pt 1.5pt 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><img
+  border=0 width=9 height=9 id="_x0000_i1027"
+  src="http://image.incruit.com/a/my/200504/sq_arrow04.gif"></span><b><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>컴퓨터 활용능력</span></b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>스프레드시트 류<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>보통수준<span
+  lang=EN-US>&nbsp;2</span>년<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>Microsoft
+  Access</span><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+  color:#404040'>™<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>보통수준<span
+  lang=EN-US>&nbsp;2</span>년<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><st1:place
+  w:st="on"><span lang=EN-US style='font-size:9.0pt;line-height:130%;
+   font-family:돋움;color:#404040'>Delphi</span></st1:place><span lang=EN-US
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>보통수준<span
+  lang=EN-US>&nbsp;2</span>년<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>Visual
+  Basic<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>보통수준<span
+  lang=EN-US>&nbsp;2</span>년<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>Macromedia
+  Flash</span><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+  color:#404040'>™<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>보통수준<span
+  lang=EN-US>&nbsp;4</span>년<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>HTML<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>전문가수준<span
+  lang=EN-US>&nbsp;5</span>년<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>ASP/IIS<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  class=SpellE><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+  color:#404040'>기초적수준</span></span><span lang=EN-US style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>&nbsp;1</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>년<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>Linux<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>전문가수준<span
+  lang=EN-US>&nbsp;3</span>년<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>C/C++<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>보통수준<span
+  lang=EN-US>&nbsp;2</span>년<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>Adobe
+  Photoshop</span><span style='font-size:9.0pt;line-height:130%;font-family:
+  돋움;color:#404040'>™<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>보통수준<span
+  lang=EN-US>&nbsp;2</span>년<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>JAVA
+  Script<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>보통수준<span
+  lang=EN-US>&nbsp;4</span>년<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>PHP<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>전문가수준<span
+  lang=EN-US>&nbsp;6</span>년<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15;mso-yfti-lastrow:yes;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>VB
+  Scrip<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>보통수준<span
+  lang=EN-US>&nbsp;2</span>년<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><br
+style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]></span></p>
+
+<!--상태 정보 -->
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=620
+ style='width:465.0pt;border-collapse:collapse;border:none;mso-border-alt:outset #9C9A9C .75pt;
+ mso-padding-alt:0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:18.75pt'>
+  <td colspan=2 style='border:inset #9C9A9C 1.0pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><b><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>상태정보</span></b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:18.75pt'>
+  <td width=150 style='width:112.5pt;border:inset #9C9A9C 1.0pt;border-top:
+  none;mso-border-top-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#EFEFEF;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>보훈대상<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>보훈비대상<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;background:#EFEFEF;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>병역사항<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  class=SpellE><span style='font-size:9.0pt;line-height:130%;font-family:돋움;
+  color:#404040'>군필</span></span><span lang=EN-US style='font-size:9.0pt;
+  line-height:130%;font-family:돋움;color:#404040'>&nbsp;2003</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>년<span
+  lang=EN-US> 12</span>월 입대<span lang=EN-US> ~ 2005</span>년<span lang=EN-US> 12</span>월
+  제대<span lang=EN-US>&nbsp;</span>육군<span lang=EN-US>&nbsp;</span>통신<span
+  lang=EN-US>&nbsp;</span>병장<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><br
+style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]></span></p>
+
+<!--신상정보 -->
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=620
+ style='width:465.0pt;border-collapse:collapse;border:none;mso-border-alt:outset #9C9A9C .75pt;
+ mso-padding-alt:0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:18.75pt'>
+  <td colspan=4 style='border:inset #9C9A9C 1.0pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><b><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>신상정보</span></b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:18.75pt'>
+  <td width=150 style='width:112.5pt;border:inset #9C9A9C 1.0pt;border-top:
+  none;mso-border-top-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#EFEFEF;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>결혼<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=160 style='width:120.0pt;border-top:none;border-left:none;
+  border-bottom:inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;
+  mso-border-top-alt:inset #9C9A9C .75pt;mso-border-left-alt:inset #9C9A9C .75pt;
+  mso-border-alt:inset #9C9A9C .75pt;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>미혼<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=150 style='width:112.5pt;border-top:none;border-left:none;
+  border-bottom:inset #9C9A9C 1.0pt;border-right:inset #9C9A9C 1.0pt;
+  mso-border-top-alt:inset #9C9A9C .75pt;mso-border-left-alt:inset #9C9A9C .75pt;
+  mso-border-alt:inset #9C9A9C .75pt;background:#EFEFEF;padding:0cm 2.25pt 0cm 3.75pt;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>종교<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>무교<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;background:#EFEFEF;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>취미<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>농구<span
+  lang=EN-US>/</span>여행<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#EFEFEF;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>특기<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>농구<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;background:#EFEFEF;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>신장<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>184cm<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#EFEFEF;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>체중<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>70kg<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;background:#EFEFEF;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>혈액형<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>b</span><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>형<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#EFEFEF;padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>시력<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:inset #9C9A9C 1.0pt;
+  border-right:inset #9C9A9C 1.0pt;mso-border-top-alt:inset #9C9A9C .75pt;
+  mso-border-left-alt:inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;
+  padding:0cm 2.25pt 0cm 3.75pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>좌<span
+  lang=EN-US>: 1.0 / </span>우<span lang=EN-US>: 1.0<o:p></o:p></span></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><br
+style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]></span></p>
+
+<!--자기소개서 -->
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=620
+ style='width:465.0pt;border-collapse:collapse;border:none;mso-border-alt:outset #9C9A9C .75pt;
+ mso-padding-alt:0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:18.75pt'>
+  <td style='border:inset #9C9A9C 1.0pt;mso-border-alt:inset #9C9A9C .75pt;
+  background:#CCCCCC;padding:0cm 0cm 0cm 0cm;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:130%'><b><span
+  style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'>자기소개서</span></b><span
+  lang=EN-US style='font-size:9.0pt;line-height:130%;font-family:돋움;color:#404040'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td style='border:inset #9C9A9C 1.0pt;border-top:none;mso-border-top-alt:
+  inset #9C9A9C .75pt;mso-border-alt:inset #9C9A9C .75pt;padding:7.5pt 11.25pt 11.25pt 11.25pt'><!--내용 -->
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:130%'><span style='font-size:9.0pt;line-height:130%;font-family:
+  돋움;color:#404040'>안녕하십니까 귀사에 몸담기를 원하는 <span class=SpellE>꿈을가진</span> <span
+  class=SpellE>젊은청년</span> <st1:PersonName w:st="on">권현국</st1:PersonName>이라고 합니다<span
+  lang=EN-US>. <br>
+  </span>저는<span lang=EN-US> <span class=SpellE>php<span lang=EN-US><span
+  lang=EN-US>웹프로그래머로써</span></span></span></span> <span class=SpellE>몇군대</span>
+  회사를 다닌 경력과 프리랜서업무로써 크고 작은<span lang=EN-US> <br>
+  </span>개발업무를 접해 보고 경험해 봤습니다<span lang=EN-US>. </span>보다 부지런히 움직이고 보다 <span
+  class=SpellE>자신감있게</span><span lang=EN-US> <br>
+  </span>행동해서 더 큰 무언가를 <span class=SpellE>얻고자하는게</span> 제 바램이며 제 생활신조 입니다<span
+  lang=EN-US>. <br>
+  <br>
+  </span>제가 가지고 있는 능력은<span lang=EN-US> <span class=SpellE>linux</span></span>서버에서<span
+  lang=EN-US> <span class=SpellE>apach<span class=GramE>,php,mysql</span></span></span><span
+  class=GramE>를</span> 설치 및 관리 <span class=SpellE>할수</span> 있으며<span
+  lang=EN-US> <br>
+  </span><span class=SpellE>그외에</span><span lang=EN-US> mail</span>서버<span
+  lang=EN-US>,</span>네임서버 구현도 경험으로 체득하고 있습니다<span lang=EN-US>. <br>
+  </span>또한 저의 주요업무능력은<span lang=EN-US> <span class=SpellE>php</span> </span><span
+  class=SpellE>코더로써의</span> 프로그램 코딩업무가 주 일입니다<span lang=EN-US>. <br>
+  <br>
+  </span>아직은 사회 초년생이기 때문에 남들보다 아주 우수하다고는 <span class=SpellE>할수</span> 없지만<span
+  lang=EN-US> <br>
+  </span>문제직면에 있어서의 과감한 추진력과 많은 경험에서 비롯된 노하우로<span lang=EN-US> <br>
+  </span>귀사의 업무에 크게 보탬을 하겠습니다<span lang=EN-US>.<o:p></o:p></span></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center'><span
+lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

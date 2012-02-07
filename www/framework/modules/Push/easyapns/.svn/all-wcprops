@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/viabook/!svn/ver/321/trunk/www/web/modules/Push/easyapns
+END
+apns.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Push/easyapns/apns.sql
+END
+class_DbConnect.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/viabook/!svn/ver/2/trunk/www/web/modules/Push/easyapns/class_DbConnect.php
+END
+class_APNS.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/viabook/!svn/ver/321/trunk/www/web/modules/Push/easyapns/class_APNS.php
+END
